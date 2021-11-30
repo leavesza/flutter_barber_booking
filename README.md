@@ -1,1 +1,1 @@
-# flutter_barber_booking
+Barber Booking application using flutter
